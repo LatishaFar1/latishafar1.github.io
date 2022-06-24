@@ -20,7 +20,23 @@ function Home() {
               </div>
             </div>
                 <div className='summary'>
-                  summary....
+                 <h2>
+                  <ol className='skills'>
+                    <li>
+                      <h3 className='summary-title'>SKILLS</h3>
+                      <span>JavaScript, ReactJS, Ruby On Rails,
+                        Git, SQL, Firebase
+                      </span>
+                    </li>
+                </ol>
+                <ol className='skills'>
+                    <li>
+                      <h3 className='summary-title'>SPOKEN LANGUAGES</h3>
+                      <span> English, French
+                      </span>
+                    </li>
+                </ol>
+                 </h2>
                 </div>
         </div>
       </div>
@@ -33,6 +49,8 @@ function Home() {
         </motion.div>
       
       </div>
+
+
         
     </div>
   )
