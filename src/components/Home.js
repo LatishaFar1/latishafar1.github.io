@@ -1,6 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
+import {motion} from "framer-motion";
 
 function Home() {
+
+  const [rotate, setRotate] = useState(false);
+
   return (
     <div className='home'>
 
@@ -22,9 +26,11 @@ function Home() {
       </div>
 
       <div className='right'>
-        <div className='home-img-wrapper'>
+        <motion.div animate={{ scale: 1}} initial={{scale: 0}} transition={{ duration: 0.5 }} 
+          whileHover={{ scale: 1.1 }}
+        className='home-img-wrapper'>
         <img src="IMG_3392.jpg" alt="" className='home-img' />
-        </div>
+        </motion.div>
       
       </div>
         
