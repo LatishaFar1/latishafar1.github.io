@@ -3,24 +3,38 @@
   background-color: #EAF4F4;
   font-family: 'Bebas Neue';
   /* font-family: 'League Gothic', sans-serif; */
+  font-size: 18px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=League+Gothic&display=swap');
 
-.App-link {
+a{
+  text-decoration: none;
   color: #6B9080;
+
 }
-
-
 
 
 /* HEADER */
 .header{
   background-color: #CCE3DE;
+  font-size: 20px;
+}
+.header-box{
+  display: flex;
+  align-items: center;
+  height: 30px;
+  padding: 10px;
+  justify-content: space-between;
 
 }
+.title{
+  font-size: 25px;
+}
+
 
 /* FOOTER */
   .footer{
     background-color: #CCE3DE;
+    font-size: 25px;
   }
