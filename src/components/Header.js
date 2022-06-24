@@ -10,9 +10,9 @@ function Header() {
           Home
       </Link>
 
-      <div className="title">
+      {/* <div className="title">
       TISH FAROUL  ⚡️🎧🌙
-      </div>
+      </div> */}
       
 
 
