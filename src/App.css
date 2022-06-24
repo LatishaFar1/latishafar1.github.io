@@ -1,9 +1,26 @@
 .App {
   text-align: center;
+  background-color: #EAF4F4;
+  font-family: 'Bebas Neue';
+  /* font-family: 'League Gothic', sans-serif; */
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=League+Gothic&display=swap');
 
 .App-link {
-  color: #61dafb;
+  color: #6B9080;
 }
 
+
+
+
+/* HEADER */
+.header{
+  background-color: #CCE3DE;
+
+}
+
+/* FOOTER */
+  .footer{
+    background-color: #CCE3DE;
+  }
