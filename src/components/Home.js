@@ -15,29 +15,12 @@ function Home() {
             <div className='titles'>
               <div className='title-wrapper'>
                 <div className='title'> Software Engineer</div>
+                <div className='title'> Web Developer</div>
                 <div className='title'> Writer</div>
                 <div className='title'> Proud-Dog Mom</div>
               </div>
             </div>
-                <div className='summary'>
-                 <h2>
-                  <ol className='skills'>
-                    <li>
-                      <h3 className='summary-title'>SKILLS</h3>
-                      <span>JavaScript, ReactJS, Ruby On Rails,
-                        Git, SQL, Firebase
-                      </span>
-                    </li>
-                </ol>
-                <ol className='skills'>
-                    <li>
-                      <h3 className='summary-title'>SPOKEN LANGUAGES</h3>
-                      <span> English, French
-                      </span>
-                    </li>
-                </ol>
-                 </h2>
-                </div>
+            
         </div>
       </div>
 

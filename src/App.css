@@ -28,9 +28,7 @@ a{
   justify-content: space-between;
 
 }
-.title{
-  font-size: 25px;
-}
+
 
 
 
@@ -46,7 +44,6 @@ a{
   height: 100vh;
 }
 .titles{
-  height: 50px;
   overflow:hidden;
 }
 .title-wrapper{
@@ -67,11 +64,12 @@ a{
 .title{
   height: 50px;
   color:#6B9080;
+  font-size: 28px;
+
 }
 .left-wrapper{
   /* background-color: #CCE3DE; */
-  padding: 50px;
-  height: 85%;
+  padding: 100px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -87,6 +85,7 @@ a{
 }
 .summary{
   font-family: 'League Gothic', sans-serif;
+  text-align: center;
 }
 
 .home-img{
@@ -111,7 +110,22 @@ a{
 
 
 
+/* PROJECTS */
+.projects{
+  padding: 50px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
 
+.projects-summary{
+  width: 60%;
+}
+
+.projects-summary > p{
+  font-size: 30px;
+}
 
 
 

@@ -14,7 +14,9 @@ function Header() {
       TISH FAROUL  ⚡️🎧🌙
       </div> */}
       
-
+      <Link to="/about">
+          About
+      </Link>
 
       <Link to="/projects">
           Projects
