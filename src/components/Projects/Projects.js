@@ -20,11 +20,11 @@ function Projects() {
 
       <div className='projects-list'>
         
+      <ProjectsList />
+      <ProjectsList />
+      <ProjectsList />
+      <ProjectsList />
       </div>
-      <ProjectsList />
-      <ProjectsList />
-      <ProjectsList />
-      <ProjectsList />
     </div>
   )
 }

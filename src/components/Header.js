@@ -5,7 +5,6 @@ function Header() {
   return (
     <div className='header'>
       <div className='wrapper'>
-
      {/* <ul>
 
       <li>
@@ -31,12 +30,6 @@ function Header() {
       
 
       </ul> */}
-
-
-
-
-
-
       </div>
 
     <input class="menu-icon" type="checkbox" id="menu-icon" name="menu-icon"/>

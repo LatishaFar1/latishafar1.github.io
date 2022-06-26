@@ -383,6 +383,33 @@ h1{
   font-size: 30px;
 }
 
+.projects-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+}
+.projects-card{
+  width: 200px;
+  margin: 20px 10px;
+  border: 4px solid;
+  border-radius: 8px 8px 8px 8px;
+  overflow: hidden;
+}
+.projects-outline{
+  height: 20px;
+  background-color: #CCE3DE;
+  display: flex;
+  align-items: center;
+}
+
+.circle{
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  border-radius: 15px;
+  margin: 2.4px;
+}
 
 
 /* FOOTER */
@@ -393,6 +420,6 @@ h1{
   }
 
   .footer > a{
-    padding-right: 20px;
+    padding-right: 50px;
     align-items: center;
   }

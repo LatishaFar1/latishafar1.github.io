@@ -1,9 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 import {motion} from "framer-motion";
 
 function Home() {
-
-  const [rotate, setRotate] = useState(false);
 
   return (
     <div className='home'>
