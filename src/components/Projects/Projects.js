@@ -8,7 +8,7 @@ function Projects() {
 
       <div className='projects-summary'>
         <p>
-          Check out my blog posts on <a href="href='https://tishfaroul.medium.com/"> Medium</a>
+          Check out my blog posts on <a className="medium" href="href='https://tishfaroul.medium.com/"> Medium</a>
           <br/>
           <br/>
           See below for some of my projects.
