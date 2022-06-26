@@ -11,7 +11,7 @@ function Home() {
     {/* <img src="img_3392"/> */}
       <div className='left'>
         <div className='left-wrapper'>
-            <h1 className='name'> TISH FAROUL ⚡️🎧🌙</h1>
+            <h2 className='name'> TISH FAROUL ⚡️🎧🌙</h2>
             <div className='titles'>
               <div className='title-wrapper'>
                 <div className='title'> Software Engineer</div>

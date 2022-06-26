@@ -1,10 +1,12 @@
 import React from 'react'
 
+
 function About() {
   return (
 
 
 <div className='summary'>
+
                  <h2>
                   <ol className='skills'>
                     <li>
