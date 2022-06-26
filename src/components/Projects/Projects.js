@@ -1,6 +1,6 @@
 import React from 'react'
 import ProjectsList from './ProjectsList';
-
+import {projects} from "../../data"
 
 function Projects() {
   return (
@@ -19,11 +19,12 @@ function Projects() {
       </div>
 
       <div className='projects-list'>
-        
-      <ProjectsList />
-      <ProjectsList />
-      <ProjectsList />
-      <ProjectsList />
+        {projects.map((proj) => (
+         <ProjectsList  img={proj.img} code={proj.code}
+          title={proj.title} demo={proj.demo} key={proj.id}/>
+        ))}
+
+ 
       </div>
     </div>
   )
