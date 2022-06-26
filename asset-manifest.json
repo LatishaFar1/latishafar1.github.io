@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/latishafar1.github.io/static/css/main.66ea0347.css",
-    "main.js": "/latishafar1.github.io/static/js/main.29be51a5.js",
-    "static/js/787.99750ea0.chunk.js": "/latishafar1.github.io/static/js/787.99750ea0.chunk.js",
-    "index.html": "/latishafar1.github.io/index.html",
-    "main.66ea0347.css.map": "/latishafar1.github.io/static/css/main.66ea0347.css.map",
-    "main.29be51a5.js.map": "/latishafar1.github.io/static/js/main.29be51a5.js.map",
-    "787.99750ea0.chunk.js.map": "/latishafar1.github.io/static/js/787.99750ea0.chunk.js.map"
+    "main.css": "/static/css/main.66ea0347.css",
+    "main.js": "/static/js/main.41498722.js",
+    "static/js/787.99750ea0.chunk.js": "/static/js/787.99750ea0.chunk.js",
+    "index.html": "/index.html",
+    "main.66ea0347.css.map": "/static/css/main.66ea0347.css.map",
+    "main.41498722.js.map": "/static/js/main.41498722.js.map",
+    "787.99750ea0.chunk.js.map": "/static/js/787.99750ea0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66ea0347.css",
-    "static/js/main.29be51a5.js"
+    "static/js/main.41498722.js"
   ]
 }
