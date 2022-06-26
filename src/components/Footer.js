@@ -9,7 +9,7 @@ function Footer() {
         <AiFillGithub />
       </a>
 
-      <a href='mailto: lfaroul14@gmail.com'>
+      <a href='mailto:lfaroul14@gmail.com'>
         <AiOutlineMail />
       </a>
 
