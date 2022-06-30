@@ -15,7 +15,7 @@ function Home() {
                 <div className='title'> Software Engineer</div>
                 <div className='title'> Web Developer</div>
                 <div className='title'> Writer</div>
-                <div className='title'> Proud-Dog Mom</div>
+                <div className='title'> Proud Dog-Mom</div>
               </div>
             </div>
             
