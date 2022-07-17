@@ -33,6 +33,8 @@ function About() {
      My main tech language is JavaScript and I mostly focus on frontend work.
      <br />
      Be sure to check out some of my projects and posts on my <a className="medium" href="https://tishfaroul.medium.com/">blog!</a>
+     <br />
+     I also post some things I learn on my <a className="medium" href="https://www.instagram.com/tish.codes/">instagram.</a>
     </p>
                 </div>
   )

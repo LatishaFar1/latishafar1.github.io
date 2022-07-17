@@ -1,5 +1,5 @@
 import React from 'react'
-import { AiFillGithub, AiOutlineMail, AiFillLinkedin, AiOutlineTwitter, AiOutlineBook } from "react-icons/ai";
+import { AiOutlineInstagram, AiFillGithub, AiOutlineMail, AiFillLinkedin, AiOutlineTwitter, AiOutlineBook, AiOutlineInstagram } from "react-icons/ai";
 
 function Footer() {
   return (
@@ -26,6 +26,11 @@ function Footer() {
 
       <a href='https://tishfaroul.medium.com/'>
         <AiOutlineBook />
+      </a>
+
+
+      <a href='https://www.instagram.com/tish.codes/'>
+        <AiOutlineInstagram />
       </a>
  
     </div>
