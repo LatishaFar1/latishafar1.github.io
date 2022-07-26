@@ -9,9 +9,8 @@ export const projects = [
 {
     id: 2,
     title: "Tish Chat",
-    img: "",
-    code: "https://github.com/LatishaFar1/tish-chat",
-    demo: ""
+    img: "TishChats.jpg",
+    code: "https://github.com/LatishaFar1/tish-chats"
 },
 {
     id: 3,
