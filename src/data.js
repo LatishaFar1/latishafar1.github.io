@@ -10,7 +10,8 @@ export const projects = [
     id: 2,
     title: "Tish Chat",
     img: "TishChats.jpg",
-    code: "https://github.com/LatishaFar1/tish-chats"
+    code: "https://github.com/LatishaFar1/tish-chats",
+    demo: "https://tish-chats.netlify.app/"
 },
 {
     id: 3,
