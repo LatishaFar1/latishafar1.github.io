@@ -12,7 +12,8 @@ function Projects() {
           <br/>
           <br/>
           See below for some of my projects.
-
+          <br/>
+          Be sure to click the title to find the code, click the image for a demo.
         </p>
 
 

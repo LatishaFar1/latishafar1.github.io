@@ -11,10 +11,12 @@ function ProjectsList({img, code, title, demo}) {
         </div>
 
         <a href={demo}> 
-        {title}
+         <a href={code} className="project-title">{title}</a>
         <img src={img} alt="pending completion" className='project-img' />
-        
         </a>
+
+ 
+   
     </div>
   )
 }
