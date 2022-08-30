@@ -34,12 +34,12 @@ export const projects = [
     img: "HappyPaws.png",
     code: "https://github.com/LatishaFar1/HappyPawsAdoption",
     demo: "https://youtu.be/XHK-9cfhnDk"
+},
+{
+    id: 6,
+    title: "NodeBlog",
+    img: "NodeBlog.jpeg",
+    code: "https://github.com/LatishaFar1/node-blog",
+    demo: "https://tish-node-blog.herokuapp.com/posts"
 }
-// {
-//     id: 6,
-//     title: "",
-//     img: "",
-//     code: "",
-//     demo: ""
-// }
 ]
